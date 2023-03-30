@@ -38,4 +38,5 @@ If you're looking for a junior developer who is passionate about software develo
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobitoalv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobitoalv)](https://github.com/anuraghazra/github-readme-stats)
+
+(http://github-readme-streak-stats.herokuapp.com/demo/?user=jobitoalv&theme=dark&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&properties=background)
