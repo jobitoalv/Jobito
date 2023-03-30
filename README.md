@@ -18,3 +18,4 @@ I'm a quick learner and a team player. I thrive in collaborative environments an
 
 If you're looking for a junior developer who is passionate about software development, eager to learn, and committed to delivering high-quality applications, I would be excited to contribute to your team.
 
+---
