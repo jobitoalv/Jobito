@@ -5,7 +5,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### 🧞‍♂️_technologist: About Me :
 
 Hi my name is [Job](https://job-alvarez-3dport.netlify.app/)👋
 
