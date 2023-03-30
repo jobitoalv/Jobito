@@ -1,5 +1,5 @@
 # Jobito
-Hi my name is [Job](https://job-alvarez-3dport.netlify.app/)
+Hi my name is [Job](https://job-alvarez-3dport.netlify.app/)👋
 
 
 As a junior developer with experience in HTML, CSS, Ruby, Rails, JavaScript, and React, I'm passionate about building responsive, user-friendly, and scalable applications. I'm always eager to learn new technologies and best practices in software development to expand my skill set.
