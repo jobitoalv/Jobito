@@ -38,3 +38,4 @@ If you're looking for a junior developer who is passionate about software develo
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobitoalv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobitoalv)](https://github.com/anuraghazra/github-readme-stats)
